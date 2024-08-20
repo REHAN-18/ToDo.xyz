@@ -1,5 +1,5 @@
 # ToDo.xyz
-# AwesomeTaskManager
+# TaskManager
 
 A feature-rich Task Management application built with HTML, CSS, and JavaScript.
 
